@@ -7,13 +7,13 @@
 
 📱 Flutter Chat App
 
-Welcome to the Flutter Chat App! This is a simple, yet powerful real-time chat application built with Flutter and Firebase. The app is fully responsive, making it perfect for all screen sizes.
+Welcome to the Flutter Chat App! This is a simple, real-time chat application built with Flutter and Firebase. The app is fully responsive, making it perfect for all screen sizes.
 
 ✨ Features
 
-- Real-time Messaging**: Chat with friends instantly! Messages update in real-time. ⚡
-- Responsive UI**: The app looks great on any device, whether it's a phone or tablet. 📲
-- Firebase Integration**: Secure and fast backend with Firebase Authentication and Firestore. 🔥
+- Real-time Messaging: Chat with friends instantly! Messages update in real-time. ⚡
+- Responsive UI: The app looks great on any device, whether it's a phone or tablet. 📲
+- Firebase Integration: Secure and fast backend with Firebase Authentication and Firestore. 🔥
 
 
 
